@@ -19,7 +19,7 @@ Live sites using gstudio
 
 - https://www.metastudio.org/
 - http://nroer.gov.in/
-- http://i2c-clix.tiss.edu/ and several offline instances running in schools (as school servers)
+- http://demo-clix.tiss.edu/ and several offline instances running in schools (as school servers)
 - http://studio.tiss.edu/ (archived)
 
 Mailing list
